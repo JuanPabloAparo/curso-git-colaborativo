@@ -92,8 +92,15 @@ mlapeducacionit/mlapeducacionit.github.io
 
 # PASOS BÁSICOS Iniciales
 
-git init
-git add README.md || git add .
-git commit -m "descripción del commit"
-git remote add origin https://github.com/suusUarioGIT/suRepositorio.git
-git push -u origin master
+1. git init
+2. git add README.md || git add .
+3. git commit -m "descripción del commit"
+4. git remote add origin https://github.com/suusUarioGIT/suRepositorio.git
+5. git push -u origin master
+
+# Luego de los pasos básicos
+
+1. git status
+2. git add .
+3. git commit -m "descripción del commit"
+4. git push
