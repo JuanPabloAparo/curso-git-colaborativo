@@ -56,8 +56,9 @@ Te abre nano y vos le pones la descripción al commit
 2. hacen Ctrl + O, guardan los cambios
 3. Y para salir Ctrl + X
 
+```bash
 git commit -m "mensaje"
-
+```
 
 **IMPORTANTE**: Git no versiona carpetas vacias.
 
@@ -77,10 +78,9 @@ Siguen los pasos
 
 https://docs.google.com/document/d/1MubmU3zNOg_mqu5swVWb-GG0lyeTXKal-h2GVJduvZI/edit
 
-
 # Creación de repos
 
-2 nombres mágicos
+## 2 nombres mágicos
 
 El de su cuenta de git, el nombre de usuario
 
