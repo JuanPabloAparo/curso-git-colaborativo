@@ -89,3 +89,11 @@ mlapeducacionit/mlapeducacionit
 Y el que permite crear un hosting (Configura el GitHub Pages)
 
 mlapeducacionit/mlapeducacionit.github.io
+
+# PASOS BÁSICOS Iniciales
+
+git init
+git add README.md || git add .
+git commit -m "descripción del commit"
+git remote add origin https://github.com/suusUarioGIT/suRepositorio.git
+git push -u origin master
