@@ -104,3 +104,5 @@ mlapeducacionit/mlapeducacionit.github.io
 2. git add .
 3. git commit -m "descripción del commit"
 4. git push
+
+git stash
